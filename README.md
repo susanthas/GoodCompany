@@ -15,7 +15,7 @@ content validations in client or in Web server, and business validation in the D
 procedures.  
 
 Interesting points
-- I prefer to put all my code relevant to one area, inside one folder. So when the project get bigger
+- I prefer to put all my code relevant to one area, inside one folder. So when the project gets bigger
 it's easier to handle changes.
 
 - I also like to make things easier for developers in managing the code. I prefer all my APIs to 
