@@ -1,6 +1,6 @@
 # GoodCompanyChallenge
 Thank you very much for this opportunity to show my development skills. I started learning react on 07/Mar/2021 for this
-project, and I'm happy where I'm after 1 week of using it. :).
+project, and I'm happy where I'm after 1 week of using it.
 
 Main Components 
 ----------------
@@ -25,4 +25,4 @@ failed somewhere, and the message would tell me what went wrong. If the code is 
 I would know the call was success and I received what I expected. The data would always contain 
 relevant data for pass or fail response.
 
-But I have no problems following strict standards someone laid-out before. :)
+But I have no problems following strict standards someone laid-out before.
