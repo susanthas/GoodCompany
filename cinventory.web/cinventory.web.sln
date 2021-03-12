@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cinventory.web", "cinventory.web.csproj", "{EB614913-72C2-4DAC-A849-C7087D192FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cinventory.test", "..\cinventory.test\cinventory.test.csproj", "{C721B125-8992-474F-9F22-390CAB5EA047}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB614913-72C2-4DAC-A849-C7087D192FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB614913-72C2-4DAC-A849-C7087D192FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB614913-72C2-4DAC-A849-C7087D192FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB614913-72C2-4DAC-A849-C7087D192FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C721B125-8992-474F-9F22-390CAB5EA047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C721B125-8992-474F-9F22-390CAB5EA047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C721B125-8992-474F-9F22-390CAB5EA047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C721B125-8992-474F-9F22-390CAB5EA047}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {799E3758-0677-409C-A892-95AC4F31A5AE}
+	EndGlobalSection
+EndGlobal

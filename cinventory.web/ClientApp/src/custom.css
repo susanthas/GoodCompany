@@ -1,0 +1,32 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.ReactModal__Overlay {
+    padding:20px!important;
+    overflow:auto;
+    background-color:rgba(100,100,100,0.3)!important;
+}
+.ReactModal__Content {
+    max-width: 800px;
+    margin: auto;
+    inset: unset !important;
+    max-width: 800px;
+    width: 100%;
+    margin-top: 20px;
+    left: 0px !important;
+    right: 0px !important;
+}
+
+.error { display:none;color:red;font-size:0.9em;}
