@@ -4,10 +4,11 @@ project, and I'm happy where I'm after 1 week of using it. :).
 
 Main Components 
 ----------------
+GoodCompany\cinventory.web\cinventory.web.sln - Contains web app (cinventory.web) done using react/ .net Core 
+and test project (cinventory.test).
+
 ER.png - This is the ER diagram for the database design. The ER is a bit complex than the 
 solution developed. But in a database driven application, this would be the right approach.
-
-cinventory.web.sln - contains web app (cinventory.web) done using react/ .net Core and test project (cinventory.test).
 
 This particular project would contain 3 main tiers. Client, Web Server and Database. I prefer doing 
 content validations in client or in Web server, and business validation in the Database server stored 
